@@ -1,0 +1,1 @@
+NEWSAPI_KEY = "NewsAPI API Key"
