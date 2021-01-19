@@ -1,6 +1,8 @@
+API_Keys.py
 /.vscode
 /__pycache__
 /env
+/articleIndex
 *.code-workspace
 *.json
-API_Keys.py
+*.pyc
